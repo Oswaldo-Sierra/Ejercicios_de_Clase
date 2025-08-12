@@ -1,1 +1,3 @@
-# Ejercicio_1_Programación_2
+# Ejercico De la clase
+En este espacio estaran todos los ejercico de la clase 
+
