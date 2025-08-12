@@ -1,1 +1,1 @@
-# Ejercicio_1_Programaci-n_2
+# Ejercicio_1_Programación_2
